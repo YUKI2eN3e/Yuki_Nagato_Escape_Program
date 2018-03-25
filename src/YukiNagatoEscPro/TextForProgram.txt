@@ -1,0 +1,18 @@
+YUKI.N> By the time you read this message, I will no longer \n
+be myself.
+
+YUKI.N> If this message is on the screen, you, me, Haruhi \n
+Suzumiya, Mikuru Asahina, and Itsuki Koisumi must all be \n
+standing there.
+
+YUKI.N> Those are the keys. You have found the answer.
+
+YUKI.N> This is an emergency escape program. If you wish to \n
+execute, press Enter. Otherwise, presss any other key. Once \n
+the program is executed, you will be given a chance to \n
+correct space-time. However, success is not guaranteed. \n
+Neither is your safe return. \n\n
+
+YUKI.N> This program can only be executed a single time. \n
+Once it starts, it will be deleted. If you have chosen not to run \n
+the program, it will delete itself without executing. Ready?
